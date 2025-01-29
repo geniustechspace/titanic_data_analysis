@@ -24,7 +24,7 @@ The sinking of the RMS Titanic in 1912 remains a poignant reminder of the fragil
 ![Survival_Embarked](https://github.com/user-attachments/assets/80c6f001-5e83-4fea-8476-74a71e6a9e7e)
     
 6. Titles and Social Expectations</br>
-    Titles such as "Miss" and "Master" were associated with higher survival rates, reflecting the societal expectations and protective          measures afforded to women and children. Conversely, titles like "Mr." were associated with lower survival rates.
+    Titles such as "Miss" and "Master" were associated with higher survival rates, reflecting the societal expectations and protective          measures afforded to women and children. Conversely, titles like "Mr." were associated with lower survival rates. </br>
 ![Survival_Title](https://github.com/user-attachments/assets/08218427-a6c1-420a-8d0d-3f7e0b8a01ee)
 ![Correlation_analysis](https://github.com/user-attachments/assets/e403fe43-b908-4b8d-8bfd-7b40c048b864)
    
