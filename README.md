@@ -29,10 +29,10 @@ The sinking of the RMS Titanic in 1912 remains a poignant reminder of the fragil
 ![Correlation_analysis](https://github.com/user-attachments/assets/e403fe43-b908-4b8d-8bfd-7b40c048b864)
    
 # Actionable Recommendations
-*Prioritize Vulnerable Groups*: Enhance evacuation protocols to ensure consistent prioritization of women, children, and the elderly during maritime emergencies.
-*Promote Equitable Safety Measures*: Design future vessels to provide equal access to lifeboats and safety resources for passengers of all classes, regardless of their socioeconomic status.
-Improve Family Coordination: Implement systems for family identification and grouping during emergencies to minimize the challenges faced by large families.
-#Enhance Passenger Safety Education*: Include mandatory safety instructions with tickets and emphasize the importance of early compliance with evacuation drills.
-*Research-Based Design of Lifeboat Systems*: Utilize insights from fare and class-based survival rates to design lifeboat systems that accommodate passengers from all socioeconomic groups equitably.
+*Prioritize Vulnerable Groups*: Enhance evacuation protocols to ensure consistent prioritization of women, children, and the elderly during maritime emergencies.</br>
+*Promote Equitable Safety Measures*: Design future vessels to provide equal access to lifeboats and safety resources for passengers of all classes, regardless of their socioeconomic status.</br>
+*Improve Family Coordination*: Implement systems for family identification and grouping during emergencies to minimize the challenges faced by large families.</br>
+*Enhance Passenger Safety Education*: Include mandatory safety instructions with tickets and emphasize the importance of early compliance with evacuation drills.</br>
+*Research-Based Design of Lifeboat Systems*: Utilize insights from fare and class-based survival rates to design lifeboat systems that accommodate passengers from all socioeconomic groups equitably.</br>
 # Conclusion
 The analysis of the Titanic dataset reveals a complex interplay of social, economic, and demographic factors that significantly influenced passenger survival. By understanding these factors, we can strive to create a more equitable and just maritime travel system, prioritizing the safety and well-being of all passengers in the event of an emergency.
